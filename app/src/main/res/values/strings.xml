@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">quizapp</string>
+    <string name="GK_Quizlet">GK Quizlet</string>
+    <string name="test_your_knowledge">Test Your Knowledge</string>
+    <string name="what_is_the_capital_of_france">What is the capital of France?</string>
+    <string name="paris">Paris</string>
+    <string name="london">London</string>
+    <string name="rome">Rome</string>
+    <string name="berlin">Berlin</string>
+    <string name="General_Knowledge_Quiz">General Knowledge Quiz</string>
+    <string name="Submit">Submit</string>
+    <string name="Your_Score_0_10">Your Score: 0/10</string>
+    <string name="general_knowledge_quiz">GENERAL KNOWLEDGE QUIZ</string>
+    <string name="submit">SUBMIT</string>
+    <string name="your_score_0_10">Your Score: 0/10</string>
+    <string name="_0">0</string>
+</resources>
